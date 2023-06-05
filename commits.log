@@ -1,0 +1,98 @@
+commit 6150c5a9e9665fe895d31b9211eb2754d7866d93
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Wed May 31 14:53:55 2023 -0500
+
+    Agregando 2 párrafos
+
+commit d9f1d74812313024e0715863e818b97b83e523b9
+Merge: a5fd502 fe45886
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Wed May 31 14:49:58 2023 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit a5fd502d8526f244be644b91d8b8337db9b1f277
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Wed May 31 14:15:07 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit fe45886c67c39554f4dfb9e8347df8aa5cbb5532
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Wed May 31 14:15:07 2023 -0500
+
+    Agregando estaciones del año
+
+commit b7c8d636235bea225a1c69fb449457d393365ad1
+Merge: c505b05 5e39956
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Wed May 31 13:57:05 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 5e399562d866faeea39c382f3f9a978cedf38f11
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Wed May 31 10:45:18 2023 -0500
+
+    Agregando index.js al index.html
+
+commit c505b05f91ab192ab27a9c3deeabbc025f8b9029
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Wed May 31 10:39:03 2023 -0500
+
+    Agregando style.css al index.html
+
+commit 6e6b02972d425dd902eb875468421a06a9d269da
+Merge: e765e4c 794ac1c
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Wed May 31 00:15:56 2023 -0500
+
+    Merge branch 'js'
+
+commit 794ac1cfcf36536d0f9b15843be4c0ba1648ddcf
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Tue May 30 23:59:43 2023 -0500
+
+    Creando index.js
+
+commit e765e4c9540682a50dbdfd9d5c91366e6650bc6f
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Tue May 30 23:52:51 2023 -0500
+
+    Creando style.css
+
+commit 4d683f8a12c9151559c049bb7c323c5a1885557a
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Tue May 30 23:46:07 2023 -0500
+
+    Creando index.html
+
+commit 3697d5cb1a77498387b8727a7fc7b28989dac8d4
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Tue May 30 21:44:32 2023 -0500
+
+    Ignorando archivos .exe
+
+commit a735430dae48740e87b2b4e40be30e5a1c6e4f16
+Author: alejandro1osorio <112223824+alejandro1osorio@users.noreply.github.com>
+Date:   Tue May 30 20:26:44 2023 -0500
+
+    Creando licencia del repositorio
+
+commit efc9cde81fbc4d2f797b7e988681c48e919f5e3d
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Tue May 30 20:17:07 2023 -0500
+
+    Agregando más contenido al README
+
+commit e775acda43f8d7d5f21055695b92fbc48c764e2e
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Tue May 30 19:46:38 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit 3ee13236a5d7fbe022d4b60ebbf67b3186a44c72
+Author: alejandro1osorio <alejowosorio2986@gmail.com>
+Date:   Tue May 30 19:34:43 2023 -0500
+
+    Primer commit 😃
